@@ -28,6 +28,7 @@ PORT=3000
 - Clone o repositório GIT e abra o projeto;
 - Instale o Node.js na sua máquina. Certifique-se de que a versão 16 ou superior esteja instalada;
 - Execute os próximos passos na raiz do projeto;
+- Execute o comando `npm install` para instalar as dependências;
 - Execute o comando `generate:task-1` para rodar o script referente à Task 1;
 - Execute o comando `generate:task-2` para rodar o script referente à Task 2.
 
