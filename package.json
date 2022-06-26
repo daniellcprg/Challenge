@@ -1,0 +1,16 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Carvalho <daniellc.prg@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "generate:task-1": "node ./scripts/task_1.js",
+    "generate:task-2": "node ./scripts/task_2.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
